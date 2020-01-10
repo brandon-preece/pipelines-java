@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/bpreece-personal/sample-pipeline/_apis/build/status/brandon-preece.pipelines-java?branchName=master)](https://dev.azure.com/bpreece-personal/sample-pipeline/_build/latest?definitionId=7&branchName=master)
 
+Hello World!
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
